@@ -1,0 +1,7 @@
+C:\Users\tinac\source\repos\AcademiaProgramador\robo\bin\Debug\robo.exe.config
+C:\Users\tinac\source\repos\AcademiaProgramador\robo\bin\Debug\robo.exe
+C:\Users\tinac\source\repos\AcademiaProgramador\robo\bin\Debug\robo.pdb
+C:\Users\tinac\source\repos\AcademiaProgramador\robo\obj\Debug\robo.csprojAssemblyReference.cache
+C:\Users\tinac\source\repos\AcademiaProgramador\robo\obj\Debug\robo.csproj.CoreCompileInputs.cache
+C:\Users\tinac\source\repos\AcademiaProgramador\robo\obj\Debug\robo.exe
+C:\Users\tinac\source\repos\AcademiaProgramador\robo\obj\Debug\robo.pdb
